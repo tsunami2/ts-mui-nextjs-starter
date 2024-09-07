@@ -40,7 +40,7 @@ sections:
         actions:
           - type: Button
             label: Download Here
-            url: ''
+            url: 'https://krakenfiles.com/view/yhOIgjOOUT/file.html'
       - type: Card
         title: Second Card Title
         image:
