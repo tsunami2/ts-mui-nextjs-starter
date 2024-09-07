@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: If You Like It Buy It
-    subtitle: This is the subtitle
+    subtitle: Not
     text: >
       This is **Markdown** *text*.
 
