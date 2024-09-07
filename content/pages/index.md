@@ -5,10 +5,8 @@ sections:
   - type: HeroSection
     title: Cracked Games
     subtitle: Welcome To My Site
-    text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+    text: |
+      "Fuck paying when you can get it for free"
     actions:
       - type: Button
         label: Start Building
