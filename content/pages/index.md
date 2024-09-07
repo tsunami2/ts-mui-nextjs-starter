@@ -47,7 +47,7 @@ sections:
         actions:
           - type: Button
             label: Download Here
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'https://krakenfiles.com/view/8zT13bg7Yv/file.html'
       - type: Card
         title: Ghost Of Tsushima
         image:
