@@ -45,7 +45,7 @@ sections:
         title: Second Card Title
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/cp77-kv-en-1566871767337.jpg
           altText: Second item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
