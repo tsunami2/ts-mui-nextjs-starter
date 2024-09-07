@@ -7,13 +7,7 @@ sections:
     subtitle: Welcome To My Site
     text: |
       "Fuck paying when you can get it for free"
-    actions:
-      - type: Button
-        label: Read the Docs
-        url: 'https://docs.netlify.com/visual-editor/overview/'
-        size: large
-        variant: outlined
-        color: primary
+    actions: []
     image:
       type: Image
       url: /images/green-panda-gta-gaming-posters-online-india0023.jpg
