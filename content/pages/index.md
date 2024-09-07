@@ -40,7 +40,7 @@ sections:
         actions:
           - type: Button
             label: Download Here
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: ''
       - type: Card
         title: Second Card Title
         image:
