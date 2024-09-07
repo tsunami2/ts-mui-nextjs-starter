@@ -46,7 +46,7 @@ sections:
           together to separate from each other and save V's life.
         actions:
           - type: Button
-            label: Read the Docs
+            label: Download Here
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
         title: Ghost Of Tsushima
