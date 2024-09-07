@@ -13,7 +13,7 @@ sections:
       url: /images/green-panda-gta-gaming-posters-online-india0023.jpg
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Component
+    title: Games
     subtitle: ''
     items:
       - type: Card
