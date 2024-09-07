@@ -42,7 +42,7 @@ sections:
             label: Download Here
             url: 'https://krakenfiles.com/view/yhOIgjOOUT/file.html'
       - type: Card
-        title: Second Card Title
+        title: Cyberpunk 2077
         image:
           type: Image
           url: /images/cp77-kv-en-1566871767337.jpg
