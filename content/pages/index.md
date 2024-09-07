@@ -49,7 +49,7 @@ sections:
             label: Read the Docs
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
-        title: Third Card Title
+        title: Ghost Of Tsushima
         image:
           type: Image
           url: /images/ghost-of-tsushima-3840x2160-12072.jpg
