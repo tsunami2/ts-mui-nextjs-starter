@@ -2,7 +2,7 @@
     "type": "Config",
     "favicon": "/images/favicon.svg",
     "header": {
-        "title": "TypeScript + MUI Starter",
+        "title": "game-cracks.netlify.app",
         "navLinks": [
             {
                 "type": "Link",
