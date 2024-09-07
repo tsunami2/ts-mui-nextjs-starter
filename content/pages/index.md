@@ -71,5 +71,5 @@ sections:
         actions:
           - type: Button
             label: Download Here
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'https://krakenfiles.com/view/rgLuX0cGlQ/file.html'
 ---
