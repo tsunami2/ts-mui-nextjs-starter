@@ -55,10 +55,19 @@ sections:
           url: /images/ghost-of-tsushima-3840x2160-12072.jpg
           altText: Third item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          Ghost of Tsushima is a 2020 action-adventure game developed by Sucker
+          Punch Productions and published by Sony Interactive Entertainment. The
+          player controls Jin Sakai, a samurai on a quest to protect Tsushima
+          Island during the first Mongol invasion of Japan. Jin must choose
+          between following the warrior code to fight honorably, or using
+          practical but dishonorable methods of repelling the Mongols with
+          minimal casualties. The game features a large open world which can be
+          explored either on foot or on horseback. When facing enemies, the
+          player can choose to engage in a direct confrontation using Jin's
+          katana or to become a legendary warrior known as "the Ghost" by using
+          stealth tactics to assassinate opponents. A multiplayer mode titled
+          Ghost of Tsushima: Legends was released in October 2020 and made
+          available separately in September 2021.
         actions:
           - type: Button
             label: Read the Docs
