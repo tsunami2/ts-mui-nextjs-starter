@@ -52,7 +52,7 @@ sections:
         title: Third Card Title
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/ghost-of-tsushima-3840x2160-12072.jpg
           altText: Third item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
