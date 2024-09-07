@@ -70,6 +70,6 @@ sections:
           available separately in September 2021.
         actions:
           - type: Button
-            label: Read the Docs
+            label: Download Here
             url: 'https://docs.netlify.com/visual-editor/overview/'
 ---
