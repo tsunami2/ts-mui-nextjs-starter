@@ -31,7 +31,7 @@ sections:
     subtitle: Section subtitle here
     items:
       - type: Card
-        title: First Card Title
+        title: GTA V
         image:
           type: Image
           url: /images/green-panda-gta-gaming-posters-online-india0023.jpg
