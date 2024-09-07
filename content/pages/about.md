@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: If You Like It Buy It
-    subtitle: Not
+    subtitle: Not All Of Us Can Afford To Pay 70$ Hence Why I Made The Site
     text: >
       This is **Markdown** *text*.
 
